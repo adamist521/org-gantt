@@ -1,0 +1,8 @@
+#+TITLE: Org-Gantt
+
+* Org-Gantt
+Parses orgmode file to gantt
+
+* Dependencies
+- [[https://github.com/jsGanttImproved/jsgantt-improved][jsgantt-improved]] javascript library for rendering & visualizing gantt
+- [[https://github.com/daitangio/org-mode-parser][org-mode-parser]] library for parsing orgmode in node
